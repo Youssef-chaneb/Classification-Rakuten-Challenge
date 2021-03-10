@@ -2,7 +2,7 @@
 
 2021 10th March
 
-You will find in this repo my contribution to the Multimodal Product Data Classification organized by Rakuten Institute of Technology and ENS. This work has been made in collaboration with Kaouther Bouhlel (@@Kaouther0675)
+You will find in this repo my contribution to the Multimodal Product Data Classification organized by Rakuten Institute of Technology and ENS. This work has been made in collaboration with Kaouther Bouhlel (@Kaouther0675)
 
 You can find the details of the challenge and the DataSet I used for this project in this link : https://challengedata.ens.fr/challenges/35
 
